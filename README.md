@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<div displa="flex" background="black">
+  <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hell-lord-5911&label=Profile%20views&color=0e75b6&style=flat" alt="hell-lord-5911" /> </p>
@@ -51,3 +52,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hell-lord-5911&" alt="hell-lord-5911" /></p>
 
+
+</div>
