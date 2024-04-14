@@ -1,4 +1,4 @@
-                                                   <div align="center" background-color="linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);">
+                                
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
@@ -13,15 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/rohitsharma6377" target="blank"><img src="https://img.shields.io/twitter/follow/rohitsharma6377?logo=twitter&style=for-the-badge" alt="rohitsharma6377" /></a> </p>
 
-- 🔭 I’m currently working on [Webtech](https://github.com/hell-lord-5911/webtech)
+- 🔭 I’m currently working on [Webtech](https://github.com/Rohitsharma6377/webtech)
 
 - 🌱 I’m currently learning **React js & Django & DSA**
 
-- 👯 I’m looking to collaborate on [Webtech](https://github.com/hell-lord-5911/webtech)
+- 👯 I’m looking to collaborate on [Webtech](https://github.com/Rohitsharma6377/webtech)
 
-- 👨‍💻 All of my projects are available at [pixelpioneerstech.netlify.app](pixelpioneerstech.netlify.app)
+- 👨‍💻 All of my projects are available at [pixelpioneerstech.netlify.app](https://pixelpioneerstech.netlify.app/)
 
-- 📝 I regularly write articles on [pixelpioneerstech.netlify.app](pixelpioneerstech.netlify.app)
+- 📝 I regularly write articles on [pixelpioneerstech.netlify.app](https://pixelpioneerstech.netlify.app/)
 
 - 💬 Ask me about **React js , javascript , Python , EHacking**
 
@@ -56,6 +56,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hell-lord-5911&show_icons=true&locale=en" alt="hell-lord-5911" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hell-lord-5911&" alt="hell-lord-5911" /></p>
-
-
-</div>
