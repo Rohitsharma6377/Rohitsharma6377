@@ -19,9 +19,9 @@
 
 - 👯 I’m looking to collaborate on [Webtech](https://github.com/hell-lord-5911/webtech)
 
-- 👨‍💻 All of my projects are available at [pixelpioneerstech.netlify.app](pixelpioneers.netlify.app)
+- 👨‍💻 All of my projects are available at [pixelpioneerstech.netlify.app](pixelpioneerstech.netlify.app)
 
-- 📝 I regularly write articles on [pixelpioneerstech.netlify.app](pixelpioneers.netlify.app)
+- 📝 I regularly write articles on [pixelpioneerstech.netlify.app](pixelpioneerstech.netlify.app)
 
 - 💬 Ask me about **React js , javascript , Python , EHacking**
 
