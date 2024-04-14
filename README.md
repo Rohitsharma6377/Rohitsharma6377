@@ -1,4 +1,4 @@
-<div align="center" background-image="linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);">
+<div align="center" background-color="linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);">
   <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
