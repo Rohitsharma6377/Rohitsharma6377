@@ -1,4 +1,4 @@
-<div align="center" background-color="linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);">
+                                                   <div align="center" background-color="linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
@@ -19,9 +19,9 @@
 
 - 👯 I’m looking to collaborate on [Webtech](https://github.com/hell-lord-5911/webtech)
 
-- 👨‍💻 All of my projects are available at [pixelpioneers.netlify.app](pixelpioneers.netlify.app)
+- 👨‍💻 All of my projects are available at [pixelpioneerstech.netlify.app](pixelpioneers.netlify.app)
 
-- 📝 I regularly write articles on [pixelpioneers.netlify.app](pixelpioneers.netlify.app)
+- 📝 I regularly write articles on [pixelpioneerstech.netlify.app](pixelpioneers.netlify.app)
 
 - 💬 Ask me about **React js , javascript , Python , EHacking**
 
