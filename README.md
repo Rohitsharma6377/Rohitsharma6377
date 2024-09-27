@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsharma6377" alt="rohitsharma6377" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rohitsharma6377" target="blank"><img src="https://img.shields.io/twitter/follow/rohitsharma6377?logo=twitter&style=for-the-badge" alt="rohitsharma6377" /></a> </p>
 
 - 🔭 I’m currently working on **Ecom Web Project**
