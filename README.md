@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Click Here](https://rohitsharmadev.vercel.app)
 
-- ⚡ Fun fact **Rest In paradise**
+- ⚡ fact **Rest In Power**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
