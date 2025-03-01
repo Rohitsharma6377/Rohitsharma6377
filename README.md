@@ -2,21 +2,21 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 <p align="left"> <a href="https://twitter.com/rohitsharma6377" target="blank"><img src="https://img.shields.io/twitter/follow/rohitsharma6377?logo=twitter&style=for-the-badge" alt="rohitsharma6377" /></a> </p>
 
-- 🔭 I’m currently working on **Ecom Web Project**
+- 🔭 I’m currently working on **Blockchain Project**
 
 - 🌱 I’m currently learning **MERN And React Native**
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
-- 👨‍💻 All of my projects are available at [Pixelpioneers.vercel.app](Pixelpioneers.vercel.app)
+- 👨‍💻 All of my projects are available at [rohitsharamdev.vercel.app](rohitsharmadev.vercel.app)
 
-- 📝 I regularly write articles on [Pixelpioneers.vercel.app](Pixelpioneers.vercel.app)
+- 📝 I regularly write articles on [rohitsharmadev.vercel.app](rohitsharmadev.vercel.app)
 
 - 💬 Ask me about **MERN,DSA,REACT NATIVE**
 
-- 📫 How to reach me **Lavish637728@gmail.com**
+- 📫 How to reach me **Lavish6377289324@gmail.com**
 
-- 📄 Know about my experiences [Pixelpioneers.vercel.app](Pixelpioneers.vercel.app)
+- 📄 Know about my experiences [rohitsharmadev.vercel.app](rohitsharmadev.vercel.app)
 
 - ⚡ Fun fact **Rest In paradise**
 
